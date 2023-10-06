@@ -8,15 +8,15 @@ It has the potential to revolutionize communication for deaf and hard of hearnig
 #
 # System Requirement
 1.Python language
+\n
 2.OpenCV
 3.Tensorflow
 4.Computer Vision
 5.Additional Pyhton libraries: matplotlib, numpy 
-##
-#
+
 # Output 
 ![image](https://github.com/h-ema-r/sign-language-Detection-System/blob/main/hello.png)
-#
+\n
 ![image2](https://github.com/h-ema-r/sign-language-Detection-System/blob/main/2023-10-05%20(13).png)
-#
+\n
 ![image3](https://github.com/h-ema-r/sign-language-Detection-System/blob/main/no.png)
