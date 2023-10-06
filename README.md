@@ -4,8 +4,7 @@
 This presentation introduces a real-time sign language detection system. 
 The system uses computer vision and machine learning to recognize signs and translate  them into text . 
 It has the potential to revolutionize communication for deaf and hard of hearnig community. 
-#
-#
+
 # System Requirement
 1.Python language
 <br>
